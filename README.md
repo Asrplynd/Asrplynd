@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asrplynd
 - 👀 I’m interested in anything that related to IT. I'm new in this stuff, so for now, I will just take whatever knowledge and experience I need for my future self.
-- 🌱 I’m currently learning Java languange in university.
+- 🌱 Soon to graduate Software Engineering student.
 - 💞️ I’m looking to collaborate on local programming companies in Sabah and have many connections with great people in programming.
 - 📫 How to reach me:
 - IG: asrplynd
